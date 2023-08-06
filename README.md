@@ -1,2 +1,2 @@
-# OIBSIP_Task1
-This is a simple calculator website. made under the oasis info byte internship program.
+# OIBSIP_(level_2)Task1
+This is a level 2 Task 1 project a simple calculator website.
